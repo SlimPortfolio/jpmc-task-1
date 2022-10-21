@@ -1,0 +1,3 @@
+c:\DevTrainingProjects\jpmc-task-1>python -m venv project_env
+
+c:\DevTrainingProjects\jpmc-task-1>call ./project_env/scripts/activate
